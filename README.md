@@ -1,1 +1,1 @@
-## Machine-Learning - Prof. Kang Dae-Ki
+## Machine-Learning Class - Prof. Kang Dae-Ki
