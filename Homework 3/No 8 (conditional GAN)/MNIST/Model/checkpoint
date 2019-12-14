@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/David/Tasks/Machine Learning/Prof Dae-Ki Kang Class/Homework/HW3/No 8/MNIST/MNIST_cGAN_model"
+all_model_checkpoint_paths: "D:/David/Tasks/Machine Learning/Prof Dae-Ki Kang Class/Homework/HW3/No 8/MNIST/MNIST_cGAN_model"
